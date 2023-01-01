@@ -1,0 +1,105 @@
+#EXTM3U
+
+#EXTINF:0, group-title="Hindi(हिन्दी)",& Pictures HD
+http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi(हिन्दी)",& TV 
+http://z5ams.akamaized.net/andtvsd/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi(हिन्दी)",& TV HD
+http://z5ams.akamaized.net/andtvhd/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi(हिन्दी)",CNBC Awaaz
+https://cnbc_awaaz_hls-lh.akamaihd.net/i/cnbc_awaaz_hls_n_1@174872/index_5_av-p.m3u8
+
+#EXTINF:0, group-title="Hindi(हिन्दी)",India News
+https://d8rgs2gjqo2ht.cloudfront.net/abr/ngrp:indianews_all/master.m3u8
+#EXTINF:0, group-title="Hindi(हिन्दी)",India TV
+http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237/master.m3u8
+#EXTINF:0, group-title="Hindi(हिन्दी)",Kadak Hits
+http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
+#EXTINF:0, group-title="Hindi(हिन्दी)",Live Today
+http://livetodaycloud.purplestream.in/livetoday/livetoday3-live.smil/chunklist.m3u8
+#EXTINF:0, group-title="Hindi(हिन्दी)",News 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
+#EXTINF:0, group-title="Hindi(हिन्दी)",NDTV India
+https://ndtvstream-lh.akamaihd.net//i//ndtv_india_1@300634//master.m3u8
+#EXTINF:0, group-title="Hindi(हिन्दी)",Pogo
+http://z5ams.akamaized.net/pogo/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi(हिन्दी)",Zing
+http://z5ams.akamaized.net/zing/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi(हिन्दी)",Zoom
+http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
+#EXTINF:0, group-title="Hindi(हिन्दी)",Zee TV
+http://z5ams.akamaized.net/zeetvsd/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi(हिन्दी)",Zee Cinema
+http://z5ams.akamaized.net/zcinemasd/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi(हिन्दी)",Zee Cinema HD
+http://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi(हिन्दी)",Zee Classic
+http://z5ams.akamaized.net/classic/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi(हिन्दी)",Zee News
+http://z5ams.akamaized.net/zeenews/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi(हिन्दी)",Zee Business
+http://z5ams.akamaized.net/zeebusiness/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi(हिन्दी)",Zee Action
+http://z5ams.akamaized.net/action/tracks-v1a1/index.m3u8
+
+#EXTINF:0, group-title="Marathi",DD Sahyadri
+http://z5ams.akamaized.net/ddsahyadri/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Marathi",Zee Talkies
+http://z5ams.akamaized.net/zeetalkies/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Marathi",Zee Talkies HD
+http://z5ams.akamaized.net/ztalkieshd/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Marathi",Zee Marathi
+http://z5ams.akamaized.net/zmarathisd/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Marathi",Zee Marathi HD
+http://z5ams.akamaized.net/zmarathihd/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Marathi",Zee Yuva
+http://z5ams.akamaized.net/zyuva/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Marathi",Zee 24 Taas
+http://z5ams.akamaized.net/24taas/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Marathi",News 18 Lokmat
+http://ibn_lokmat_hls-lh.akamaihd.net/i/ibn_lokmat_hls_n_1@178974/index_5.m3u8
+
+#EXTINF:0,IN: Star Sports 1
+http://cs22cs.uk:8000/dusan/dusan/20338
+#EXTINF:0,IND: SONY Ten Sport 1
+http://cs22cs.uk:8000/dusan/dusan/22504
+#EXTINF:0,IN:SONY Ten Sport 2
+http://cs22cs.uk:8000/dusan/dusan/22505
+#EXTINF:0,IN: SONY Star Sports 2
+http://cs22cs.uk:8000/dusan/dusan/20337
+#EXTINF:0,IND:SONY Ten Sport 3
+http://cs22cs.uk:8000/dusan/dusan/19055
+
+#EXTINF:0, group-title="English",& Prive HD
+http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="English",Bloomberg Quint
+https://d1j33l0xltpapp.cloudfront.net/bqmain_2.m3u8
+#EXTINF:0, group-title="English",CNBC 18 News
+https://cnbctv18-lh.akamaihd.net/i/cnbc_tv18_hls_n_1@174868/index_5_av-p.m3u8
+#EXTINF:0, group-title="English",CNN News 18 
+http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_5.m3u8
+
+#EXTINF:0, group-title="English",Living Foodz
+http://z5ams.akamaized.net/livingfoodz/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="English",Zee Cafe 
+http://z5ams.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="English",Zee Cafe HD
+http://z5ams.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8
+
+#EXTINF:0, group-title="English",Wion
+http://z5ams.akamaized.net/wion/tracks-v1a1/index.m3u8
+
+#EXTINF:0, group-title="English",Times Now HD
+http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
+
+#EXTINF:0, group-title="English",Sony Movies
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:0, group-title="English",News X
+https://d3cjrhqx3ygiqt.cloudfront.net/abr/ngrp:newsx_all/master.m3u8
+#EXTINF:0, group-title="English",NDTV 24x7
+https://ndtvstream-lh.akamaihd.net/i/ndtv_24x7_1@300633/master.m3u8
+#EXTINF:0, group-title="English",NDTV Prime
+https://ndtvstream-lh.akamaihd.net/i/ndtv_profit_1@300635/master.m3u8
+#EXTINF:0, group-title="English",Mirror Now
+http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
