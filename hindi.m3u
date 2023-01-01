@@ -1,0 +1,43 @@
+#EXTM3U
+
+#EXTINF:0, group-title="Hindi(हिन्दी)",& Pictures HD
+http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi(हिन्दी)",& TV 
+http://z5ams.akamaized.net/andtvsd/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi(हिन्दी)",& TV HD
+http://z5ams.akamaized.net/andtvhd/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi(हिन्दी)",CNBC Awaaz
+https://cnbc_awaaz_hls-lh.akamaihd.net/i/cnbc_awaaz_hls_n_1@174872/index_5_av-p.m3u8
+
+#EXTINF:0, group-title="Hindi(हिन्दी)",India News
+https://d8rgs2gjqo2ht.cloudfront.net/abr/ngrp:indianews_all/master.m3u8
+#EXTINF:0, group-title="Hindi(हिन्दी)",India TV
+http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237/master.m3u8
+#EXTINF:0, group-title="Hindi(हिन्दी)",Kadak Hits
+http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
+#EXTINF:0, group-title="Hindi(हिन्दी)",Live Today
+http://livetodaycloud.purplestream.in/livetoday/livetoday3-live.smil/chunklist.m3u8
+#EXTINF:0, group-title="Hindi(हिन्दी)",News 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
+#EXTINF:0, group-title="Hindi(हिन्दी)",NDTV India
+https://ndtvstream-lh.akamaihd.net//i//ndtv_india_1@300634//master.m3u8
+#EXTINF:0, group-title="Hindi(हिन्दी)",Pogo
+http://z5ams.akamaized.net/pogo/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi(हिन्दी)",Zing
+http://z5ams.akamaized.net/zing/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi(हिन्दी)",Zoom
+http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
+#EXTINF:0, group-title="Hindi(हिन्दी)",Zee TV
+http://z5ams.akamaized.net/zeetvsd/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi(हिन्दी)",Zee Cinema
+http://z5ams.akamaized.net/zcinemasd/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi(हिन्दी)",Zee Cinema HD
+http://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi(हिन्दी)",Zee Classic
+http://z5ams.akamaized.net/classic/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi(हिन्दी)",Zee News
+http://z5ams.akamaized.net/zeenews/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi(हिन्दी)",Zee Business
+http://z5ams.akamaized.net/zeebusiness/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="Hindi(हिन्दी)",Zee Action
+http://z5ams.akamaized.net/action/tracks-v1a1/index.m3u8
