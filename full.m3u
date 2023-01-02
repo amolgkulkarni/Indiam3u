@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/in.xml,https://iptv-org.github.io/epg/guides/uk.xml"
+#EXTM3U
 
 #EXTINF:-1, group-title="Marathi",DD Sahyadri
 http://z5ams.akamaized.net/ddsahyadri/tracks-v1a1/index.m3u8
