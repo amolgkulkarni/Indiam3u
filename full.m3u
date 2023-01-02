@@ -752,3 +752,34 @@ https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/playlist.m3u8
 https://news18kannada-lh.akamaihd.net/i/n18kannada_1@372918/index_4_av-p.m3u8?rebase=on&sd=10
 #EXTINF:-1 tvg-id="PublicMusic.in" tvg-name="Public Music" tvg-country="IN" tvg-language="Kannada" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Public_Music_Kannada_Channel_Logo.jpg" group-title="Music",ಪಬ್ಲಿಕ್ ಸಂಗೀತ Public Music (576p)
 http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
+
+#EXTINF:-1,CNN
+http://203.162.235.41:16918?checkedby:dailyfreeiptvlist.com
+#EXTINF:-1,CNBC TV18
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:-1,Colors HD
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/57955.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:-1,Desi Channel
+http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:-1,ET Now
+http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:-1,Gabruu TV
+http://104.237.60.234/live/gabruutv.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:-1,India TV
+https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:-1,MAHA MOVIE
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:-1,NDTV
+https://ndtvindiaelemarchana.akamaized.net//hls//live//2003679//ndtvindia//ndtvindiamaster.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:-1,NDTV Profit
+https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/ndtvprofitmaster.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:-1,NEWS 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live2/chunks.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:-1,News18 Lokmat
+https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:-1,Republic Bharat
+https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:-1,Republic TV
+https://weblive.republicworld.com/liveorigin/republictv/master_hdlive_360p.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:-1,Times Now HD
+https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8?checkedby:dailyfreeiptvlist.com
