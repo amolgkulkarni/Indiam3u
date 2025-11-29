@@ -1,6 +1,73 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-id="" tvg-name="TL | BIGG BOSS 24x7 | TELUGU" tvg-logo="http://greenpa1.com/bbt.png" group-title="ALL BIGG BOSS 24X7",TL | BIGG BOSS 24x7 | TELUGU
 https://pxlotv.live:443/live/amolstr01/constant2election/591439.ts
 #EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="IN: ZEE CINEMA (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA HINDI MOVIES",IN: ZEE CINEMA (4K).
 https://relayflix.com:443/live/amolstr01/constant2election/98860.ts
+#EXTINF:-1 tvg-id="starpravahhd.in" tvg-name="Marathi: STAR-PRAVAH (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="MARATHI",Marathi: STAR-PRAVAH (4K).
+https://webhop.xyz:443/live/amolstr01/constant2election/98902.ts
+#EXTINF:-1 tvg-id="zeemarathihd.in" tvg-name="Marathi: ZEE Marathi (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="MARATHI",Marathi: ZEE Marathi (4K).
+https://webhop.xyz:443/live/amolstr01/constant2election/98903.ts
+#EXTINF:-1 tvg-id="zeetalkieshd.in" tvg-name="Marathi: ZEE TALKIES (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="MARATHI",Marathi: ZEE TALKIES (4K).
+https://webhop.xyz:443/live/amolstr01/constant2election/98904.ts
+#EXTINF:-1 tvg-id="colorsmarathihd.in" tvg-name="MARATHI: COLORS MARATHI (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="MARATHI",MARATHI: COLORS MARATHI (4K).
+https://webhop.xyz:443/live/amolstr01/constant2election/98905.ts
+#EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="IN: ZEETV (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA ENTERTAINMENT",IN: ZEETV (4K).
+https://starshare.net:443/live/amolstr01/constant2election/98850.ts
+#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="IN: SONY MAX (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA HINDI MOVIES",IN: SONY MAX (4K).
+https://starshare.net:443/live/amolstr01/constant2election/98857.ts
+#EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="IN: &PICTURE (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA HINDI MOVIES",IN: &PICTURE (4K).
+https://starshare.net:443/live/amolstr01/constant2election/98856.ts
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN: STAR GOLD (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA HINDI MOVIES",IN: STAR GOLD (4K).
+https://starshare.net:443/live/amolstr01/constant2election/98858.ts
+#EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="IN: STAR GOLD SELECT (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA HINDI MOVIES",IN: STAR GOLD SELECT (4K).
+https://starshare.net:443/live/amolstr01/constant2election/98859.ts
+#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="IN: ZEE CINEMA (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA HINDI MOVIES",IN: ZEE CINEMA (4K).
+https://starshare.net:443/live/amolstr01/constant2election/98860.ts
+#EXTINF:-1 tvg-id="colorscineplexhd.in" tvg-name="IN: Colors Cineplex (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA HINDI MOVIES",IN: Colors Cineplex (4K).
+https://starshare.net:443/live/amolstr01/constant2election/98908.ts
+#EXTINF:-1 tvg-id="starmovieshd.in" tvg-name="IN: STAR MOVIE (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA ENGLISH MOVIES",IN: STAR MOVIE (4K).
+https://starshare.net:443/live/amolstr01/constant2election/98842.ts
+#EXTINF:-1 tvg-id="starmoviesselecthd.in" tvg-name="IN: STAR MOVIE SELECT (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA ENGLISH MOVIES",IN: STAR MOVIE SELECT (4K).
+https://starshare.net:443/live/amolstr01/constant2election/98843.ts
+#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="IN: &PRIVE (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA ENGLISH MOVIES",IN: &PRIVE (4K).
+https://starshare.net:443/live/amolstr01/constant2election/98840.ts
+#EXTINF:-1 tvg-id="andflixhd.in" tvg-name="IN: &FLIX (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA ENGLISH MOVIES",IN: &FLIX (4K).
+https://starshare.net:443/live/amolstr01/constant2election/98841.ts
+#EXTINF:-1 tvg-id="sonypixhd.in" tvg-name="IN: SONY PIX (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA ENGLISH MOVIES",IN: SONY PIX (4K).
+https://starshare.net:443/live/amolstr01/constant2election/98846.ts
 
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="IN: STAR SPORTS 1 (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title=" SPORTS | INDIA",IN: STAR SPORTS 1 (4K).
+https://starshare.net:443/live/amolstr01/constant2election/98864.ts
+#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="IN: STAR SPORTS 2 (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title=" SPORTS | INDIA",IN: STAR SPORTS 2 (4K).
+https://starshare.net:443/live/amolstr01/constant2election/98865.ts
+#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="IN: STAR SPORTS 1 HINDI (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title=" SPORTS | INDIA",IN: STAR SPORTS 1 HINDI (4K).
+https://starshare.net:443/live/amolstr01/constant2election/98866.ts
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="IN: STAR SPORTS SELECT 1 (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title=" SPORTS | INDIA",IN: STAR SPORTS SELECT 1 (4K).
+https://starshare.net:443/live/amolstr01/constant2election/98867.ts
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="IN: START SPORTS SELECT 2 (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title=" SPORTS | INDIA",IN: START SPORTS SELECT 2 (4K).
+https://starshare.net:443/live/amolstr01/constant2election/98868.ts
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="IN: TEN 1 (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title=" SPORTS | INDIA",IN: TEN 1 (4K).
+https://starshare.net:443/live/amolstr01/constant2election/98861.ts
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="IN: TEN 2 (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title=" SPORTS | INDIA",IN: TEN 2 (4K).
+https://starshare.net:443/live/amolstr01/constant2election/98862.ts
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="IN: TEN 3 (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title=" SPORTS | INDIA",IN: TEN 3 (4K).
+https://starshare.net:443/live/amolstr01/constant2election/98863.ts
+#EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="IN: SONY TEN 5 (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title=" SPORTS | INDIA",IN: SONY TEN 5 (4K).
+https://starshare.net:443/live/amolstr01/constant2election/98870.ts
+#EXTINF:-1 tvg-id="foxsports501hd.au" tvg-name="CRIC || FOX CRIC 501 ᴴᴰ" tvg-logo="http://greenpa1.com/fox.png" group-title="CRICKET",CRIC || FOX CRIC 501 ᴴᴰ
+https://starshare.net:443/live/amolstr01/constant2election/1856.ts
+#EXTINF:-1 tvg-id="supersportcricket.za" tvg-name="CRIC || SUPERSPORTS ᴴᴰ" tvg-logo="http://greenpa1.com/ssc.png" group-title="CRICKET",CRIC || SUPERSPORTS ᴴᴰ
+https://starshare.net:443/live/amolstr01/constant2election/158442.ts
+#EXTINF:-1 tvg-id="supersportcricket.za" tvg-name="CRIC || SUPERSPORTS ᴴᴰ" tvg-logo="http://greenpa1.com/ssc.png" group-title="CRICKET",CRIC || SUPERSPORTS ᴴᴰ
+https://starshare.net:443/live/amolstr01/constant2election/2496.ts
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="CRIC || SKY SPORTS CRIC ᴴᴰ" tvg-logo="http://greenpa1.com/skycricket.png" group-title="CRICKET",CRIC || SKY SPORTS CRIC ᴴᴰ
+https://starshare.net:443/live/amolstr01/constant2election/12.ts
+#EXTINF:-1 tvg-id="" tvg-name="CRIC || SKY SPORTS CRIC ⁴ᵏ" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="CRICKET",CRIC || SKY SPORTS CRIC ⁴ᵏ
+https://starshare.net:443/live/amolstr01/constant2election/23566.ts
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="CRIC || SKY SPORTS CRIC ⁴ᵏ" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="CRICKET",CRIC || SKY SPORTS CRIC ⁴ᵏ
+https://starshare.net:443/live/amolstr01/constant2election/114479.ts
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="CRIC || SKY SPORTS CRIC ⁴ᵏ" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="CRICKET",CRIC || SKY SPORTS CRIC ⁴ᵏ
+https://starshare.net:443/live/amolstr01/constant2election/124269.ts
+#EXTINF:-1 tvg-id="" tvg-name="CRIC || ASTRO CRICKET ᴴᴰ" tvg-logo="http://greenpa1.com/astrocricket.png" group-title="CRICKET",CRIC || ASTRO CRICKET ᴴᴰ
+https://starshare.net:443/live/amolstr01/constant2election/2494.ts
