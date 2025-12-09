@@ -1,5 +1,37 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="starpravahhd.in" tvg-name="Marathi: STAR-PRAVAH (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="MARATHI",Marathi: STAR-PRAVAH (4K).
+https://pxlotv.live:443/live/amolstr01/constant2election/98902.ts
+#EXTINF:-1 tvg-id="zeemarathihd.in" tvg-name="Marathi: ZEE Marathi (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="MARATHI",Marathi: ZEE Marathi (4K).
+https://pxlotv.live:443/live/amolstr01/constant2election/98903.ts
+#EXTINF:-1 tvg-id="zeetalkieshd.in" tvg-name="Marathi: ZEE TALKIES (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="MARATHI",Marathi: ZEE TALKIES (4K).
+https://pxlotv.live:443/live/amolstr01/constant2election/98904.ts
+#EXTINF:-1 tvg-id="colorsmarathihd.in" tvg-name="MARATHI: COLORS MARATHI (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="MARATHI",MARATHI: COLORS MARATHI (4K).
+https://pxlotv.live:443/live/amolstr01/constant2election/98905.ts
+#EXTINF:-1 tvg-id="" tvg-name="Marathi: ZEE Marathi (usa)" tvg-logo="" group-title="MARATHI",Marathi: ZEE Marathi (usa)
+https://pxlotv.live:443/live/amolstr01/constant2election/5869.ts
+#EXTINF:-1 tvg-id="saamtv.in" tvg-name="MARATHI: Saam Tv" tvg-logo="" group-title="MARATHI",MARATHI: Saam Tv
+https://pxlotv.live:443/live/amolstr01/constant2election/337784.ts
+#EXTINF:-1 tvg-id="shemaroomarathibana.in" tvg-name="MARATHI: SHEMAROO MARATHI  " tvg-logo="https://f.top4top.io/p_3065p9lst1.jpg" group-title="MARATHI",MARATHI: SHEMAROO MARATHI  
+https://pxlotv.live:443/live/amolstr01/constant2election/338882.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Marathi:ABP Majha" tvg-logo="" group-title="MARATHI",Marathi:ABP Majha
+https://pxlotv.live:443/live/amolstr01/constant2election/5859.ts
+#EXTINF:-1 tvg-id="" tvg-name="Marathi:DD Sahyadri HD(lk)" tvg-logo="" group-title="MARATHI",Marathi:DD Sahyadri HD(lk)
+https://pxlotv.live:443/live/amolstr01/constant2election/5860.ts
+#EXTINF:-1 tvg-id="" tvg-name="Marathi:Fakt marathi" tvg-logo="" group-title="MARATHI",Marathi:Fakt marathi
+https://pxlotv.live:443/live/amolstr01/constant2election/5861.ts
+#EXTINF:-1 tvg-id="" tvg-name="Marathi:News18 Lokmat" tvg-logo="" group-title="MARATHI",Marathi:News18 Lokmat
+https://pxlotv.live:443/live/amolstr01/constant2election/5862.ts
+#EXTINF:-1 tvg-id="" tvg-name="Marathi:TV9 Marathi HD" tvg-logo="" group-title="MARATHI",Marathi:TV9 Marathi HD
+https://pxlotv.live:443/live/amolstr01/constant2election/5863.ts
+#EXTINF:-1 tvg-id="sangeetmarathi.in" tvg-name="Marathi:Sangeet Marathi(lk)" tvg-logo="" group-title="MARATHI",Marathi:Sangeet Marathi(lk)
+https://pxlotv.live:443/live/amolstr01/constant2election/5864.ts
+#EXTINF:-1 tvg-id="" tvg-name="Marathi:Zee Yuva" tvg-logo="" group-title="MARATHI",Marathi:Zee Yuva
+https://pxlotv.live:443/live/amolstr01/constant2election/5866.ts
+#EXTINF:-1 tvg-id="" tvg-name="Marathi:Zee  24 Taas" tvg-logo="" group-title="MARATHI",Marathi:Zee  24 Taas
+https://pxlotv.live:443/live/amolstr01/constant2election/5868.ts
+
 #EXTINF:-1 tvg-id="sonyhd.in" tvg-name="IN: SONY (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA ENTERTAINMENT",IN: SONY (4K).
 https://pxlotv.live:443/live/amolstr01/constant2election/98854.ts
 #EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="IN: SONY SAB (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA ENTERTAINMENT",IN: SONY SAB (4K).
@@ -14,44 +46,23 @@ https://pxlotv.live:443/live/amolstr01/constant2election/98855.ts
 https://pxlotv.live:443/live/amolstr01/constant2election/98852.ts
 #EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="IN: ZEETV (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA ENTERTAINMENT",IN: ZEETV (4K).
 https://pxlotv.live:443/live/amolstr01/constant2election/98850.ts
-#EXTINF:-1 tvg-id="sonyhd.in" tvg-name="IN: SONY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Sony_TV_new.png" group-title="INDIA ENTERTAINMENT",IN: SONY HD
-https://pxlotv.live:443/live/amolstr01/constant2election/144.ts
-#EXTINF:-1 tvg-id="ts15" tvg-name="IN: SONY TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Sony_TV_new.png" group-title="INDIA ENTERTAINMENT",IN: SONY TV HD
-https://pxlotv.live:443/live/amolstr01/constant2election/224.ts
 #EXTINF:-1 tvg-id="sonyhd.in" tvg-name="IN: SONY (FHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Sony_TV_new.png" group-title="INDIA ENTERTAINMENT",IN: SONY (FHD)
 https://pxlotv.live:443/live/amolstr01/constant2election/9365.ts
-#EXTINF:-1 tvg-id="starplushd.in" tvg-name="IN: STAR PLUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="INDIA ENTERTAINMENT",IN: STAR PLUS HD
-https://pxlotv.live:443/live/amolstr01/constant2election/221.ts
 #EXTINF:-1 tvg-id="starplushd.in" tvg-name="IN: STAR PLUS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="INDIA ENTERTAINMENT",IN: STAR PLUS FHD
 https://pxlotv.live:443/live/amolstr01/constant2election/167.ts
-#EXTINF:-1 tvg-id="ts8" tvg-name="IN: STAR PLUS (FHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="INDIA ENTERTAINMENT",IN: STAR PLUS (FHD)
-https://pxlotv.live:443/live/amolstr01/constant2election/9366.ts
-#EXTINF:-1 tvg-id="colorshd.in" tvg-name="IN: COLOR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Colors_tv2017.png/220px-Colors_tv2017.png" group-title="INDIA ENTERTAINMENT",IN: COLOR HD
-https://pxlotv.live:443/live/amolstr01/constant2election/219.ts
 #EXTINF:-1 tvg-id="ts840" tvg-name="IN: COLORS FHD" tvg-logo="https://i.ibb.co/KVxN2ZN/Colors-HD.png" group-title="INDIA ENTERTAINMENT",IN: COLORS FHD
 https://pxlotv.live:443/live/amolstr01/constant2election/195.ts
-#EXTINF:-1 tvg-id="colorshd.in" tvg-name="IN: Colors (FHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Colors_tv2017.png/220px-Colors_tv2017.png" group-title="INDIA ENTERTAINMENT",IN: Colors (FHD)
-https://pxlotv.live:443/live/amolstr01/constant2election/9370.ts
-#EXTINF:-1 tvg-id="starbharathd.in" tvg-name="IN: STAR BHARAT HD" tvg-logo="https://multireach.in/wp-content/uploads/2023/04/STAR-BHARAT-HD.png" group-title="INDIA ENTERTAINMENT",IN: STAR BHARAT HD
-https://pxlotv.live:443/live/amolstr01/constant2election/199.ts
 #EXTINF:-1 tvg-id="starbharathd.in" tvg-name="IN: STAR BHARAT (FHD)" tvg-logo="https://multireach.in/wp-content/uploads/2023/04/STAR-BHARAT-HD.png" group-title="INDIA ENTERTAINMENT",IN: STAR BHARAT (FHD)
 https://pxlotv.live:443/live/amolstr01/constant2election/9367.ts
-#EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="IN: SONY SAB HD" tvg-logo="https://i.ibb.co/Ns8hynf/Sony-Sab-new.png" group-title="INDIA ENTERTAINMENT",IN: SONY SAB HD
-https://pxlotv.live:443/live/amolstr01/constant2election/145.ts
 #EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="IN: SAB (FHD)" tvg-logo="https://i.ibb.co/Ns8hynf/Sony-Sab-new.png" group-title="INDIA ENTERTAINMENT",IN: SAB (FHD)
 https://pxlotv.live:443/live/amolstr01/constant2election/9368.ts
-#EXTINF:-1 tvg-id="ts40" tvg-name="IN: & TV HD" tvg-logo="https://i.ibb.co/QKh19yZ/512x512bb-1.png" group-title="INDIA ENTERTAINMENT",IN: & TV HD
-https://pxlotv.live:443/live/amolstr01/constant2election/232.ts
 #EXTINF:-1 tvg-id="ts40" tvg-name="IN: &TV (FHD)" tvg-logo="https://i.ibb.co/QKh19yZ/512x512bb-1.png" group-title="INDIA ENTERTAINMENT",IN: &TV (FHD)
 https://pxlotv.live:443/live/amolstr01/constant2election/9369.ts
-#EXTINF:-1 tvg-id="ts63" tvg-name="IN: ZEE TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="INDIA ENTERTAINMENT",IN: ZEE TV HD
-https://pxlotv.live:443/live/amolstr01/constant2election/161.ts
 #EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="IN: ZEE TV FHD" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_446/PORTRAIT/CMqUe8No.png" group-title="INDIA ENTERTAINMENT",IN: ZEE TV FHD
 https://pxlotv.live:443/live/amolstr01/constant2election/220.ts
 #EXTINF:-1 tvg-id="ts63" tvg-name="IN: ZEE TV (FHD)" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_446/PORTRAIT/CMqUe8No.png" group-title="INDIA ENTERTAINMENT",IN: ZEE TV (FHD)
 https://pxlotv.live:443/live/amolstr01/constant2election/9371.ts
-#EXTINF:-1 tvg-id="ts382" tvg-name="IN: Zee Zest (4K)" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA ENTERTAINMENT",IN: Zee Zest (4K)
-https://pxlotv.live:443/live/amolstr01/constant2election/380446.ts
+
 
 #EXTINF:-1 tvg-id="foxsports501hd.au" tvg-name="CRIC || FOX CRIC 501 ᴴᴰ" tvg-logo="http://greenpa1.com/fox.png" group-title="CRICKET",CRIC || FOX CRIC 501 ᴴᴰ
 https://pxlotv.live:443/live/amolstr01/constant2election/1856.ts
@@ -146,23 +157,17 @@ https://pxlotv.live:443/live/amolstr01/constant2election/7259.ts
 #EXTINF:-1 tvg-id="abpnews.in" tvg-name="IN:  ABP NEWS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="INDIAN NEWS",IN:  ABP NEWS
 https://pxlotv.live:443/live/amolstr01/constant2election/7260.ts
 
-#EXTINF:-1 tvg-id="ts179" tvg-name="IN: NDTV INDIA" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png" group-title="INDIAN NEWS",IN: NDTV INDIA
-https://pxlotv.live:443/live/amolstr01/constant2election/7430.ts
-#EXTINF:-1 tvg-id="ts183" tvg-name="IN: India news" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_news.png" group-title="INDIAN NEWS",IN: India news
-https://pxlotv.live:443/live/amolstr01/constant2election/7431.ts
 #EXTINF:-1 tvg-id="ts93" tvg-name="IN: NDTV Profit (news)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Profit.png" group-title="INDIAN NEWS",IN: NDTV Profit (news)
 https://pxlotv.live:443/live/amolstr01/constant2election/7437.ts
 
 #EXTINF:-1 tvg-id="ts72" tvg-name="IN:Republic TV (English)" tvg-logo="" group-title="INDIAN NEWS",IN:Republic TV (English)
 https://pxlotv.live:443/live/amolstr01/constant2election/9056.ts
-#EXTINF:-1 tvg-id="4seven.uk" tvg-name="IN: Republic TV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png" group-title="INDIAN NEWS",IN: Republic TV HD
-https://pxlotv.live:443/live/amolstr01/constant2election/9080.ts
+
 #EXTINF:-1 tvg-id="ts840" tvg-name="IN: CNBC Tv 18 (News)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv_18.png" group-title="INDIAN NEWS",IN: CNBC Tv 18 (News)
 https://pxlotv.live:443/live/amolstr01/constant2election/9117.ts
 #EXTINF:-1 tvg-id="indiatv.in" tvg-name="IN:  India TV NEWS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_news.png" group-title="INDIAN NEWS",IN:  India TV NEWS
 https://pxlotv.live:443/live/amolstr01/constant2election/23247.ts
-#EXTINF:-1 tvg-id="indianews.in" tvg-name="IN:  India News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_news.png" group-title="INDIAN NEWS",IN:  India News
-https://pxlotv.live:443/live/amolstr01/constant2election/23248.ts
+
 #EXTINF:-1 tvg-id="aajtakhd.in" tvg-name="IN: AAJTAK (4K)" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIAN NEWS",IN: AAJTAK (4K)
 https://pxlotv.live:443/live/amolstr01/constant2election/23795.ts
 #EXTINF:-1 tvg-id="ts1" tvg-name="IN: INDIA TODAY (News)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/India_Today.png" group-title="INDIAN NEWS",IN: INDIA TODAY (News)
@@ -171,10 +176,7 @@ https://pxlotv.live:443/live/amolstr01/constant2election/35714.ts
 https://pxlotv.live:443/live/amolstr01/constant2election/124897.ts
 #EXTINF:-1 tvg-id="ts932" tvg-name="IN: TimesNow NavaBharat (4K)" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIAN NEWS",IN: TimesNow NavaBharat (4K)
 https://pxlotv.live:443/live/amolstr01/constant2election/155585.ts
-#EXTINF:-1 tvg-id="news24.in" tvg-name="IN: News 24 SD" tvg-logo="" group-title="INDIAN NEWS",IN: News 24 SD
-https://pxlotv.live:443/live/amolstr01/constant2election/355507.ts
-#EXTINF:-1 tvg-id="ts831" tvg-name="IN: News India 24x7 SD" tvg-logo="" group-title="INDIAN NEWS",IN: News India 24x7 SD
-https://pxlotv.live:443/live/amolstr01/constant2election/355509.ts
+
 #EXTINF:-1 tvg-id="tv9bharatvarsh.in" tvg-name="IN:  TV9 BHARATVARSH" tvg-logo="" group-title="INDIAN NEWS",IN:  TV9 BHARATVARSH
 https://pxlotv.live:443/live/amolstr01/constant2election/379763.ts
 #EXTINF:-1 tvg-id="" tvg-name="IN: REPUBLIC BHARAT" tvg-logo="https://i.ibb.co/nsXSsp6r/Republic-Bharat-logo-svg.png" group-title="INDIAN NEWS",IN: REPUBLIC BHARAT
